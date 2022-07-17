@@ -1,1 +1,0 @@
-/docs/guides/oie-embedded-common-download-setup-app/android/main/

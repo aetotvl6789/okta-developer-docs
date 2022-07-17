@@ -1,1 +1,0 @@
-We have already shown you how to protect specific routes above. Any routes you don't explicitly protect have anonymous access.

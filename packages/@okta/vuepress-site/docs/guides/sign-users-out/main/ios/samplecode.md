@@ -1,1 +1,0 @@
-[iOS samples repo](https://github.com/okta/samples-ios)
