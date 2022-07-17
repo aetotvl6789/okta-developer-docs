@@ -1,1 +1,0 @@
-See [Identity Engine SDK authentication flow for password recovery](#identity-engine-sdk-authentication-flow-for-password-recovery).
