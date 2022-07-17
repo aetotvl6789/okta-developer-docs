@@ -1,1 +1,0 @@
-**Authorization Code** and **Refresh Token**

@@ -1,1 +1,0 @@
-See [Identity Engine SDK authentication flow](#identity-engine-sdk-authentication-flow).

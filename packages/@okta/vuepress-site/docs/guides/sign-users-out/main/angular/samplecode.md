@@ -1,1 +1,0 @@
-[Angular samples repo](https://github.com/okta/samples-js-angular)
