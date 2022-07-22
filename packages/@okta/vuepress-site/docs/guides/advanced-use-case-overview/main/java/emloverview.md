@@ -1,1 +1,0 @@
-[Email Magic Links (EML) overview](/docs/guides/email-magic-links-overview/java/main/)
