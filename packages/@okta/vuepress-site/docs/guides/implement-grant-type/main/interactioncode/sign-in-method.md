@@ -1,1 +1,0 @@
-OIDC - OpenID Connect
