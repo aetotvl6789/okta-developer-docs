@@ -1,1 +1,0 @@
-[Identity Engine Node.js SDK (okta-auth-js)](https://github.com/okta/okta-auth-js)
